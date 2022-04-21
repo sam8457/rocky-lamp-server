@@ -1,6 +1,6 @@
 # Rocky Linux LAMP Server
 
-A script to practice BASH scripting.
+A script to practice BASH in Linux.
 
 This script installs PHP, MariaDB, and Apache on Rocky Linux (based on CentOS).
 It then installs Nextcloud on top of those.
